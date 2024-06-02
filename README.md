@@ -1,0 +1,1 @@
+This is Curriculum Management system. It provides a centralized interface for administrators, instructors, and students to interact with curricular data, ensuring a cohesive and efficient academic experience.
